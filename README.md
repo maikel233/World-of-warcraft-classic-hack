@@ -7,9 +7,8 @@ Keep in mind that this can cause your account to be banned use at your own risk.
 
 
 
-Versions supported:
+Versions supported:  
 Wrath classic 3.4.3.52237 and newer.
-Upcomming (Requires some modifications to the player struct code):
-WoW classic ~not yet~
-SOM ~not yet~
-RETAIL ~not yet~
+WoW classic ~not yet~<br>
+SOM ~not yet~<br>
+RETAIL ~not yet~<br>
